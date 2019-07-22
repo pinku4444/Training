@@ -1,0 +1,21 @@
+{
+  "name": "Training",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "equilateral":"node extra/patterns/equilateral.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pinku4444/Training.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pinku4444/Training/issues"
+  },
+  "homepage": "https://github.com/pinku4444/Training#readme"
+}
